@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -29,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
