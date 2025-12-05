@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -32,8 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
