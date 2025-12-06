@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
