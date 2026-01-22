@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -77,4 +79,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
