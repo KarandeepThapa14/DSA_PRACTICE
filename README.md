@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0796-rotate-string) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
