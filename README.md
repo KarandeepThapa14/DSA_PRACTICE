@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
+| [0796-rotate-string](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/KarandeepThapa14/DSA_PRACTICE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
